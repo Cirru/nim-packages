@@ -14446,6 +14446,18 @@
     "web": "https://github.com/Cirru/parser.nim"
   },
   {
+    "name": "cirru-edn",
+    "url": "https://github.com/Cirru/cirru-edn.nim",
+    "method": "git",
+    "tags": [
+      "edn",
+      "cirru"
+    ],
+    "description": "Cirru EDN loader",
+    "license": "MIT",
+    "web": "https://github.com/Cirru/cirru-edn.nim"
+  },
+  {
     "name": "reframe",
     "url": "https://github.com/rosado/reframe.nim",
     "method": "git",
